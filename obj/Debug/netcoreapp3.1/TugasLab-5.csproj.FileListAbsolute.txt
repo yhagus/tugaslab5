@@ -1,0 +1,13 @@
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\TugasLab-5\bin\Debug\netcoreapp3.1\TugasLab-5.exe
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\TugasLab-5\bin\Debug\netcoreapp3.1\TugasLab-5.deps.json
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\TugasLab-5\bin\Debug\netcoreapp3.1\TugasLab-5.runtimeconfig.json
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\TugasLab-5\bin\Debug\netcoreapp3.1\TugasLab-5.runtimeconfig.dev.json
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\TugasLab-5\bin\Debug\netcoreapp3.1\TugasLab-5.dll
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\TugasLab-5\bin\Debug\netcoreapp3.1\TugasLab-5.pdb
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\TugasLab-5\obj\Debug\netcoreapp3.1\TugasLab-5.csprojAssemblyReference.cache
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\TugasLab-5\obj\Debug\netcoreapp3.1\TugasLab-5.csproj.CoreCompileInputs.cache
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\TugasLab-5\obj\Debug\netcoreapp3.1\TugasLab-5.AssemblyInfoInputs.cache
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\TugasLab-5\obj\Debug\netcoreapp3.1\TugasLab-5.AssemblyInfo.cs
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\TugasLab-5\obj\Debug\netcoreapp3.1\TugasLab-5.dll
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\TugasLab-5\obj\Debug\netcoreapp3.1\TugasLab-5.pdb
+D:\Cloud Storage\OneDrive - STMIK AMIKOM Yogyakarta\AMIKOM UNIVERSITY\Kumpulan tugas\Semester 2\Pemrograman - Praktikum\TugasLab-5\obj\Debug\netcoreapp3.1\TugasLab-5.genruntimeconfig.cache
